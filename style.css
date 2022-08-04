@@ -78,3 +78,145 @@ a{
     height: 240px;
     width: 540px;
 }
+
+.header2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 64px;
+    gap: 32px;
+}
+
+.imginfo{
+    height:160px;
+    width: 160px;
+    max-width: 95%;
+    border: 3px solid black;
+}
+
+.imgwithinfo{
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.imgalign{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+    font-size: 18px;
+    color: #1f2937;
+    text-align: center;
+    gap: 12px;
+}
+
+.info2{
+    margin-bottom: 32px;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.header3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 100;
+    font-size: 36px;
+    background-color: #e5e7eb;
+    color: #f9faf8;
+    font-style: italic;
+    height: 360px;
+    margin-top: 144px;
+}
+
+.bckgrdimg{
+    position: absolute;
+    height: 360px;
+    width: 100%;
+}
+
+.qoute{
+    position: absolute;
+    width: 620px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 8px;
+}
+  
+p{
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 24px;
+    color: #f9faf8;
+    font-style: normal;
+}
+
+.header4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    gap: 12px;
+    text-align: right;
+}
+
+.signupbox{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    color: #f9faf8;
+    height: 150px;
+    width: 70%;
+    border-radius: 8px;
+    
+}
+
+.contenth4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+}
+
+.heading4{
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.contsign{
+    font-size: 18px;
+}
+
+.signh4{
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 8px;
+    height: 38px;
+    width: 130px;
+    font-size: 16px;
+    font-weight: 800;
+    cursor: pointer;
+    text-align: center;
+    border:2px solid whitesmoke;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    height: 85px;
+}
+
+.copyrights{
+    font-size: 16px;
+    color: #f9faf8;
+}
