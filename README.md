@@ -16,3 +16,6 @@ Credits for Images :-
     --> Haikyu [https://wall.alphacoders.com/big.php?i=727948]
     --> Death Note [https://in.pinterest.com/pin/899594094292330728/]
     
+Editing credits :-
+    *] https://www.instagram.com/__.pughal.__/
+    
