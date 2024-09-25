@@ -6,7 +6,7 @@ Credits for Images :-
 
 *] Manga cover images 
     --> one piece & Black Clover [https://in.pinterest.com/dsplyd/]   
-    --> Spy x Family [https://in.pinterest.com/pin/876372408713000560/]
+    --> Spy x Family [https://in.pinterest.com/pin/876372408713000560/] 
     --> Demon Slayer [https://in.pinterest.com/Nezukeru/]
 
 *] Manga pannels 
@@ -18,4 +18,6 @@ Credits for Images :-
     
 Editing credits :-
     *] https://www.instagram.com/__.pughal.__/
+
+Demo - https://aswin-22.github.io/landing_page/
     
